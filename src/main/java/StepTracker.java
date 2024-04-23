@@ -10,7 +10,7 @@ public class StepTracker
   active = steps;
  }
 public void addDailySteps (int steps){
- myDailiySteps.add(steps);
+ myDailySteps.add(steps);
 }
 
  public int activeDays(){
